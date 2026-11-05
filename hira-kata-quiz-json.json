@@ -1,0 +1,2120 @@
+{
+  "Hiragana": {
+    "Hira_A_KO": [
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "ই",
+          "B": "উ",
+          "C": "আ",
+          "D": "এ"
+        },
+        "question": "あ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "কা",
+          "B": "আ",
+          "C": "ই",
+          "D": "কো"
+        },
+        "question": "い"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "উ",
+          "B": "ও",
+          "C": "কে",
+          "D": "কু"
+        },
+        "question": "う"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "আ",
+          "B": "এ",
+          "C": "ই",
+          "D": "কো"
+        },
+        "question": "え"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "উ",
+          "B": "কা",
+          "C": "কে",
+          "D": "ও"
+        },
+        "question": "お"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "কা",
+          "B": "কি",
+          "C": "কু",
+          "D": "কো"
+        },
+        "question": "か"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "কে",
+          "B": "কি",
+          "C": "আ",
+          "D": "ও"
+        },
+        "question": "き"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "আ",
+          "B": "কু",
+          "C": "কে",
+          "D": "ও"
+        },
+        "question": "く"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "কো",
+          "B": "কা",
+          "C": "কে",
+          "D": "উ"
+        },
+        "question": "け"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "ই",
+          "B": "কো",
+          "C": "কা",
+          "D": "এ"
+        },
+        "question": "こ"
+      }
+    ],
+    "Hira_DA_PO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "জি",
+          "B": "দা",
+          "C": "জু",
+          "D": "দে"
+        },
+        "question": "だ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "দো",
+          "B": "বা",
+          "C": "জি",
+          "D": "বি"
+        },
+        "question": "ぢ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "দে",
+          "B": "জু (zu)",
+          "C": "দো",
+          "D": "বু"
+        },
+        "question": "づ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "দা",
+          "B": "জি",
+          "C": "বে",
+          "D": "দে"
+        },
+        "question": "で"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "দো",
+          "B": "বা",
+          "C": "বো",
+          "D": "পা"
+        },
+        "question": "ど"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "বি",
+          "B": "বা",
+          "C": "বু",
+          "D": "বে"
+        },
+        "question": "ば"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "বো",
+          "B": "বে",
+          "C": "বি",
+          "D": "বা"
+        },
+        "question": "び"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "বু",
+          "B": "বো",
+          "C": "দা",
+          "D": "দে"
+        },
+        "question": "ぶ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "বা",
+          "B": "বি",
+          "C": "বো",
+          "D": "বে"
+        },
+        "question": "べ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "বো",
+          "B": "জু",
+          "C": "দা",
+          "D": "বে"
+        },
+        "question": "ぼ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "পি",
+          "B": "পা",
+          "C": "পু",
+          "D": "পে"
+        },
+        "question": "ぱ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "পো",
+          "B": "পে",
+          "C": "পি",
+          "D": "পা"
+        },
+        "question": "ぴ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "পু",
+          "B": "পো",
+          "C": "বা",
+          "D": "বি"
+        },
+        "question": "ぷ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "পা",
+          "B": "পি",
+          "C": "পো",
+          "D": "পে"
+        },
+        "question": "ぺ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "পো",
+          "B": "পু",
+          "C": "বা",
+          "D": "পে"
+        },
+        "question": "ぽ"
+      }
+    ],
+    "Hira_GA_ZO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "গি",
+          "B": "গা",
+          "C": "গু",
+          "D": "গে"
+        },
+        "question": "が"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "গো",
+          "B": "জা",
+          "C": "গি",
+          "D": "জি"
+        },
+        "question": "ぎ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "গে",
+          "B": "গু",
+          "C": "গো",
+          "D": "জু"
+        },
+        "question": "ぐ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "গা",
+          "B": "গি",
+          "C": "জে",
+          "D": "গে"
+        },
+        "question": "げ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "গো",
+          "B": "জা",
+          "C": "জো",
+          "D": "দা"
+        },
+        "question": "ご"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "জি",
+          "B": "জা (za)",
+          "C": "জু",
+          "D": "জে"
+        },
+        "question": "ざ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "জো",
+          "B": "জে",
+          "C": "জি",
+          "D": "জা"
+        },
+        "question": "じ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "জু (zu)",
+          "B": "জো",
+          "C": "গা",
+          "D": "গি"
+        },
+        "question": "ず"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "জা",
+          "B": "জি",
+          "C": "জো",
+          "D": "জে (ze)"
+        },
+        "question": "ぜ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "জো (zo)",
+          "B": "গু",
+          "C": "গা",
+          "D": "জে"
+        },
+        "question": "ぞ"
+      }
+    ],
+    "Hira_GYA_PYO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "গিউ",
+          "B": "গ্যা",
+          "C": "গিও",
+          "D": "জ্যা"
+        },
+        "question": "ぎゃ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "জো",
+          "B": "ব্যা",
+          "C": "গিউ",
+          "D": "জু"
+        },
+        "question": "ぎゅ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "গিও",
+          "B": "জ্যা",
+          "C": "জু",
+          "D": "জো"
+        },
+        "question": "ぎょ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "গ্যা",
+          "B": "গিউ",
+          "C": "বিও",
+          "D": "জ্যা"
+        },
+        "question": "じゃ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "জু",
+          "B": "জো",
+          "C": "ব্যা",
+          "D": "বিউ"
+        },
+        "question": "じゅ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "বিউ",
+          "B": "জো",
+          "C": "বিও",
+          "D": "গ্যা"
+        },
+        "question": "じょ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "গিও",
+          "B": "জু",
+          "C": "ব্যা",
+          "D": "বিউ"
+        },
+        "question": "びゃ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "বিউ",
+          "B": "বিও",
+          "C": "গ্যা",
+          "D": "গিউ"
+        },
+        "question": "びゅ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "গ্যা",
+          "B": "গিও",
+          "C": "জো",
+          "D": "বিও"
+        },
+        "question": "びょ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "পিউ",
+          "B": "প্যা",
+          "C": "পিও",
+          "D": "জ্যা"
+        },
+        "question": "ぴゃ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "পিও",
+          "B": "জ্যা",
+          "C": "পিউ",
+          "D": "জু"
+        },
+        "question": "ぴゅ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "প্যা",
+          "B": "পিউ",
+          "C": "জু",
+          "D": "পিও"
+        },
+        "question": "ぴょ"
+      }
+    ],
+    "Hira_KYA_CHO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "কিউ",
+          "B": "ক্যা",
+          "C": "কিও",
+          "D": "শ্যা"
+        },
+        "question": "きゃ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "শো",
+          "B": "চ্যা",
+          "C": "কিউ",
+          "D": "চু"
+        },
+        "question": "きゅ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "কিও",
+          "B": "শ্যা",
+          "C": "শু",
+          "D": "শো"
+        },
+        "question": "きょ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "ক্যা",
+          "B": "কিউ",
+          "C": "চো",
+          "D": "শ্যা"
+        },
+        "question": "しゃ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "শু",
+          "B": "শো",
+          "C": "চ্যা",
+          "D": "চু"
+        },
+        "question": "しゅ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "চু",
+          "B": "শো",
+          "C": "চো",
+          "D": "ক্যা"
+        },
+        "question": "しょ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "কিও",
+          "B": "শু",
+          "C": "চ্যা",
+          "D": "চু"
+        },
+        "question": "ちゃ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "চু",
+          "B": "চো",
+          "C": "ক্যা",
+          "D": "কিউ"
+        },
+        "question": "ちゅ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "ক্যা",
+          "B": "কিও",
+          "C": "শো",
+          "D": "চো"
+        },
+        "question": "ちょ"
+      }
+    ],
+    "Hira_MA_N": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "মি",
+          "B": "মা",
+          "C": "মু",
+          "D": "মে"
+        },
+        "question": "ま"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "মো",
+          "B": "ইয়া",
+          "C": "মি",
+          "D": "ইউ"
+        },
+        "question": "み"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "মে",
+          "B": "মু",
+          "C": "মো",
+          "D": "রা"
+        },
+        "question": "む"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "মা",
+          "B": "মি",
+          "C": "ইয়ো",
+          "D": "মে"
+        },
+        "question": "め"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "মো",
+          "B": "ইয়া",
+          "C": "ইউ",
+          "D": "ইয়ো"
+        },
+        "question": "も"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "ইউ",
+          "B": "ইয়া",
+          "C": "ইয়ো",
+          "D": "রা"
+        },
+        "question": "や"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "ইয়ো",
+          "B": "রি",
+          "C": "ইউ",
+          "D": "ইয়া"
+        },
+        "question": "ゆ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "ইয়ো",
+          "B": "রু",
+          "C": "মা",
+          "D": "মে"
+        },
+        "question": "よ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "রি",
+          "B": "রু",
+          "C": "রে",
+          "D": "রা"
+        },
+        "question": "ら"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "রি",
+          "B": "রো",
+          "C": "ওয়া",
+          "D": "ও"
+        },
+        "question": "り"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "রে",
+          "B": "রু",
+          "C": "রো",
+          "D": "ন"
+        },
+        "question": "る"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "রা",
+          "B": "রি",
+          "C": "ওয়া",
+          "D": "রে"
+        },
+        "question": "れ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "রো",
+          "B": "ওয়া",
+          "C": "ও",
+          "D": "ন্"
+        },
+        "question": "ろ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "ও",
+          "B": "ওয়া",
+          "C": "ন্",
+          "D": "রা"
+        },
+        "question": "わ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "ন্",
+          "B": "রে",
+          "C": "ও (wo)",
+          "D": "ওয়া"
+        },
+        "question": "を"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "ন্ এবং ং",
+          "B": "রো",
+          "C": "মা",
+          "D": "মি"
+        },
+        "question": "ん"
+      }
+    ],
+    "Hira_NA_HO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "নি",
+          "B": "না",
+          "C": "নু",
+          "D": "নে"
+        },
+        "question": "な"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "নো",
+          "B": "হা",
+          "C": "নি",
+          "D": "হি"
+        },
+        "question": "に"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "নে",
+          "B": "নু",
+          "C": "নো",
+          "D": "ফু"
+        },
+        "question": "ぬ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "না",
+          "B": "নি",
+          "C": "হে",
+          "D": "নে"
+        },
+        "question": "ね"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "নো",
+          "B": "হা",
+          "C": "হো",
+          "D": "মা"
+        },
+        "question": "の"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "হি",
+          "B": "হা",
+          "C": "ফু",
+          "D": "হে"
+        },
+        "question": "は"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "হো",
+          "B": "হে",
+          "C": "হি",
+          "D": "হা"
+        },
+        "question": "ひ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "ফু",
+          "B": "হো",
+          "C": "না",
+          "D": "নে"
+        },
+        "question": "ふ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "হা",
+          "B": "হি",
+          "C": "হো",
+          "D": "হে"
+        },
+        "question": "へ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "হো",
+          "B": "নু",
+          "C": "না",
+          "D": "হে"
+        },
+        "question": "ほ"
+      }
+    ],
+    "Hira_NYA_RYO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "নিউ",
+          "B": "ন্যা",
+          "C": "নিও",
+          "D": "হ্যা"
+        },
+        "question": "にゃ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "হিও",
+          "B": "ম্যা",
+          "C": "নিউ",
+          "D": "মিউ"
+        },
+        "question": "にゅ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "নিও",
+          "B": "হ্যা",
+          "C": "হিউ",
+          "D": "হিও"
+        },
+        "question": "にょ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "ন্যা",
+          "B": "নিউ",
+          "C": "মিও",
+          "D": "হ্যা"
+        },
+        "question": "ひゃ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "হিউ",
+          "B": "হিও",
+          "C": "ম্যা",
+          "D": "মিউ"
+        },
+        "question": "ひゅ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "মিউ",
+          "B": "হিও",
+          "C": "মিও",
+          "D": "ন্যা"
+        },
+        "question": "ひょ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "নিও",
+          "B": "হিউ",
+          "C": "ম্যা",
+          "D": "মিউ"
+        },
+        "question": "みゃ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "মিউ",
+          "B": "মিও",
+          "C": "ন্যা",
+          "D": "নিউ"
+        },
+        "question": "みゅ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "ন্যা",
+          "B": "নিও",
+          "C": "হিও",
+          "D": "মিও"
+        },
+        "question": "みょ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "রিউ",
+          "B": "র্যা",
+          "C": "রিও",
+          "D": "ন্যা"
+        },
+        "question": "りゃ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "রিও",
+          "B": "ন্যা",
+          "C": "রিউ",
+          "D": "নিউ"
+        },
+        "question": "りゅ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "র্যা",
+          "B": "রিউ",
+          "C": "নিউ",
+          "D": "রিও"
+        },
+        "question": "りょ"
+      }
+    ],
+    "Hira_SA_TO": [
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "সা",
+          "B": "শি",
+          "C": "সু",
+          "D": "সে"
+        },
+        "question": "さ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "সো",
+          "B": "তা",
+          "C": "শি",
+          "D": "চি"
+        },
+        "question": "し"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "সে",
+          "B": "সু",
+          "C": "সো",
+          "D": "তে"
+        },
+        "question": "す"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "সা",
+          "B": "সু",
+          "C": "তো",
+          "D": "সে"
+        },
+        "question": "せ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "সো",
+          "B": "তা",
+          "C": "তে",
+          "D": "চি"
+        },
+        "question": "そ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "চি",
+          "B": "তা",
+          "C": "তে",
+          "D": "তো"
+        },
+        "question": "た"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "সু (tsu)",
+          "B": "তে",
+          "C": "চি",
+          "D": "তা"
+        },
+        "question": "ち"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "সু (tsu)",
+          "B": "তো",
+          "C": "সা",
+          "D": "সে"
+        },
+        "question": "つ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "তা",
+          "B": "চি",
+          "C": "তো",
+          "D": "তে"
+        },
+        "question": "て"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "তো",
+          "B": "সু",
+          "C": "সা",
+          "D": "তে"
+        },
+        "question": "と"
+      }
+    ],
+    "Kata_A_KO": [
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "ই",
+          "B": "উ",
+          "C": "আ",
+          "D": "এ"
+        },
+        "question": "ア"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "কা",
+          "B": "আ",
+          "C": "ই",
+          "D": "কো"
+        },
+        "question": "イ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "উ",
+          "B": "ও",
+          "C": "কে",
+          "D": "কু"
+        },
+        "question": "ウ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "আ",
+          "B": "এ",
+          "C": "ই",
+          "D": "কো"
+        },
+        "question": "エ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "উ",
+          "B": "কা",
+          "C": "কে",
+          "D": "ও"
+        },
+        "question": "オ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "কা",
+          "B": "কি",
+          "C": "কু",
+          "D": "কো"
+        },
+        "question": "カ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "কে",
+          "B": "কি",
+          "C": "আ",
+          "D": "ও"
+        },
+        "question": "キ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "আ",
+          "B": "কু",
+          "C": "কে",
+          "D": "ও"
+        },
+        "question": "ク"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "কো",
+          "B": "কা",
+          "C": "কে",
+          "D": "উ"
+        },
+        "question": "ケ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "ই",
+          "B": "কো",
+          "C": "কা",
+          "D": "এ"
+        },
+        "question": "コ"
+      }
+    ],
+    "Kata_DA_PO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "জি",
+          "B": "দা",
+          "C": "জু",
+          "D": "দে"
+        },
+        "question": "ダ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "দো",
+          "B": "বা",
+          "C": "জি",
+          "D": "বি"
+        },
+        "question": "ヂ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "দে",
+          "B": "জু (zu)",
+          "C": "দো",
+          "D": "বু"
+        },
+        "question": "ヅ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "দা",
+          "B": "জি",
+          "C": "বে",
+          "D": "দে"
+        },
+        "question": "デ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "দো",
+          "B": "বা",
+          "C": "বো",
+          "D": "পা"
+        },
+        "question": "ド"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "বি",
+          "B": "বা",
+          "C": "বু",
+          "D": "বে"
+        },
+        "question": "バ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "বো",
+          "B": "বে",
+          "C": "বি",
+          "D": "বা"
+        },
+        "question": "ビ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "বু",
+          "B": "বো",
+          "C": "দা",
+          "D": "দে"
+        },
+        "question": "ブ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "বা",
+          "B": "বি",
+          "C": "বো",
+          "D": "বে"
+        },
+        "question": "ベ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "বো",
+          "B": "জু",
+          "C": "দা",
+          "D": "বে"
+        },
+        "question": "ボ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "পি",
+          "B": "পা",
+          "C": "পু",
+          "D": "পে"
+        },
+        "question": "パ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "পো",
+          "B": "পে",
+          "C": "পি",
+          "D": "পা"
+        },
+        "question": "ピ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "পু",
+          "B": "পো",
+          "C": "বা",
+          "D": "বি"
+        },
+        "question": "プ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "পা",
+          "B": "পি",
+          "C": "পো",
+          "D": "পে"
+        },
+        "question": "ペ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "পো",
+          "B": "পু",
+          "C": "বা",
+          "D": "পে"
+        },
+        "question": "ポ"
+      }
+    ],
+    "Kata_GA_ZO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "গি",
+          "B": "গা",
+          "C": "গু",
+          "D": "গে"
+        },
+        "question": "ガ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "গো",
+          "B": "জা",
+          "C": "গি",
+          "D": "জি"
+        },
+        "question": "ギ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "গে",
+          "B": "গু",
+          "C": "গো",
+          "D": "জু"
+        },
+        "question": "グ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "গা",
+          "B": "গি",
+          "C": "জে",
+          "D": "গে"
+        },
+        "question": "ゲ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "গো",
+          "B": "জা",
+          "C": "জো",
+          "D": "দা"
+        },
+        "question": "ゴ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "জি",
+          "B": "জা (za)",
+          "C": "জু",
+          "D": "জে"
+        },
+        "question": "ザ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "জো",
+          "B": "জে",
+          "C": "জি",
+          "D": "জা"
+        },
+        "question": "ジ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "জু (zu)",
+          "B": "জো",
+          "C": "গা",
+          "D": "গি"
+        },
+        "question": "ズ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "জা",
+          "B": "জি",
+          "C": "জো",
+          "D": "জে (ze)"
+        },
+        "question": "ゼ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "জো (zo)",
+          "B": "গু",
+          "C": "গা",
+          "D": "জে"
+        },
+        "question": "ゾ"
+      }
+    ],
+    "Kata_GYA_PYO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "গিউ",
+          "B": "গ্যা",
+          "C": "গিও",
+          "D": "জ্যা"
+        },
+        "question": "ギャ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "জো",
+          "B": "ব্যা",
+          "C": "গিউ",
+          "D": "জু"
+        },
+        "question": "ギュ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "গিও",
+          "B": "জ্যা",
+          "C": "জু",
+          "D": "জো"
+        },
+        "question": "ギョ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "গ্যা",
+          "B": "গিউ",
+          "C": "বিও",
+          "D": "জ্যা"
+        },
+        "question": "ジャ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "জু",
+          "B": "জো",
+          "C": "ব্যা",
+          "D": "বিউ"
+        },
+        "question": "ジュ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "বিউ",
+          "B": "জো",
+          "C": "বিও",
+          "D": "গ্যা"
+        },
+        "question": "ジョ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "গিও",
+          "B": "জু",
+          "C": "ব্যা",
+          "D": "বিউ"
+        },
+        "question": "ビャ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "বিউ",
+          "B": "বিও",
+          "C": "গ্যা",
+          "D": "গিউ"
+        },
+        "question": "ビュ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "গ্যা",
+          "B": "গিও",
+          "C": "জো",
+          "D": "বিও"
+        },
+        "question": "ビョ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "পিউ",
+          "B": "প্যা",
+          "C": "পিও",
+          "D": "জ্যা"
+        },
+        "question": "ピャ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "পিও",
+          "B": "জ্যা",
+          "C": "পিউ",
+          "D": "জু"
+        },
+        "question": "ピュ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "প্যা",
+          "B": "পিউ",
+          "C": "জু",
+          "D": "পিও"
+        },
+        "question": "ピョ"
+      }
+    ],
+    "Kata_KYA_CHO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "কিউ",
+          "B": "ক্যা",
+          "C": "কিও",
+          "D": "শ্যা"
+        },
+        "question": "キャ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "শো",
+          "B": "চ্যা",
+          "C": "কিউ",
+          "D": "চু"
+        },
+        "question": "キュ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "কিও",
+          "B": "শ্যা",
+          "C": "শু",
+          "D": "শো"
+        },
+        "question": "キョ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "ক্যা",
+          "B": "কিউ",
+          "C": "চো",
+          "D": "শ্যা"
+        },
+        "question": "シャ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "শু",
+          "B": "শো",
+          "C": "চ্যা",
+          "D": "চু"
+        },
+        "question": "シュ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "চু",
+          "B": "শো",
+          "C": "চো",
+          "D": "ক্যা"
+        },
+        "question": "ショ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "কিও",
+          "B": "শু",
+          "C": "চ্যা",
+          "D": "চু"
+        },
+        "question": "チャ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "চু",
+          "B": "চো",
+          "C": "ক্যা",
+          "D": "কিউ"
+        },
+        "question": "チュ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "ক্যা",
+          "B": "কিও",
+          "C": "শো",
+          "D": "চো"
+        },
+        "question": "チョ"
+      }
+    ],
+    "Kata_MA_N": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "মি",
+          "B": "মা",
+          "C": "মু",
+          "D": "মে"
+        },
+        "question": "マ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "মো",
+          "B": "ইয়া",
+          "C": "মি",
+          "D": "ইউ"
+        },
+        "question": "ミ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "মে",
+          "B": "মু",
+          "C": "মো",
+          "D": "রা"
+        },
+        "question": "ム"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "মা",
+          "B": "মি",
+          "C": "ইয়ো",
+          "D": "মে"
+        },
+        "question": "メ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "মো",
+          "B": "ইয়া",
+          "C": "ইউ",
+          "D": "ইয়ো"
+        },
+        "question": "モ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "ইউ",
+          "B": "ইয়া",
+          "C": "ইয়ো",
+          "D": "রা"
+        },
+        "question": "ヤ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "ইয়ো",
+          "B": "রি",
+          "C": "ইউ",
+          "D": "ইয়া"
+        },
+        "question": "ユ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "ইয়ো",
+          "B": "রু",
+          "C": "মা",
+          "D": "মে"
+        },
+        "question": "ヨ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "রি",
+          "B": "রু",
+          "C": "রে",
+          "D": "রা"
+        },
+        "question": "ラ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "রি",
+          "B": "রো",
+          "C": "ওয়া",
+          "D": "ও"
+        },
+        "question": "リ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "রে",
+          "B": "রু",
+          "C": "রো",
+          "D": "ন"
+        },
+        "question": "ル"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "রা",
+          "B": "রি",
+          "C": "ওয়া",
+          "D": "রে"
+        },
+        "question": "レ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "রো",
+          "B": "ওয়া",
+          "C": "ও",
+          "D": "ন্"
+        },
+        "question": "ロ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "ও",
+          "B": "ওয়া",
+          "C": "ন্",
+          "D": "রা"
+        },
+        "question": "ワ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "ন্",
+          "B": "রে",
+          "C": "ও (wo)",
+          "D": "ওয়া"
+        },
+        "question": "ヲ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "ন্ এবং ং",
+          "B": "রো",
+          "C": "মা",
+          "D": "মি"
+        },
+        "question": "ン"
+      }
+    ],
+    "Kata_NA_HO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "নি",
+          "B": "না",
+          "C": "নু",
+          "D": "নে"
+        },
+        "question": "ナ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "নো",
+          "B": "হা",
+          "C": "নি",
+          "D": "হি"
+        },
+        "question": "ニ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "নে",
+          "B": "নু",
+          "C": "নো",
+          "D": "ফু"
+        },
+        "question": "ヌ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "না",
+          "B": "নি",
+          "C": "হে",
+          "D": "নে"
+        },
+        "question": "ネ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "নো",
+          "B": "হা",
+          "C": "হো",
+          "D": "মা"
+        },
+        "question": "ノ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "হি",
+          "B": "হা",
+          "C": "ফু",
+          "D": "হে"
+        },
+        "question": "ハ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "হো",
+          "B": "হে",
+          "C": "হি",
+          "D": "হা"
+        },
+        "question": "ヒ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "ফু",
+          "B": "হো",
+          "C": "না",
+          "D": "নে"
+        },
+        "question": "フ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "হা",
+          "B": "হি",
+          "C": "হো",
+          "D": "হে"
+        },
+        "question": "ヘ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "হো",
+          "B": "নু",
+          "C": "না",
+          "D": "হে"
+        },
+        "question": "ホ"
+      }
+    ],
+    "Kata_NYA_RYO": [
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "নিউ",
+          "B": "ন্যা",
+          "C": "নিও",
+          "D": "হ্যা"
+        },
+        "question": "ニャ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "হিও",
+          "B": "ম্যা",
+          "C": "নিউ",
+          "D": "মিউ"
+        },
+        "question": "ニュ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "নিও",
+          "B": "হ্যা",
+          "C": "হিউ",
+          "D": "হিও"
+        },
+        "question": "ニョ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "ন্যা",
+          "B": "নিউ",
+          "C": "মিও",
+          "D": "হ্যা"
+        },
+        "question": "ヒャ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "হিউ",
+          "B": "হিও",
+          "C": "ম্যা",
+          "D": "মিউ"
+        },
+        "question": "ヒュ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "মিউ",
+          "B": "হিও",
+          "C": "মিও",
+          "D": "ন্যা"
+        },
+        "question": "ヒョ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "নিও",
+          "B": "হিউ",
+          "C": "ম্যা",
+          "D": "মিউ"
+        },
+        "question": "ミャ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "মিউ",
+          "B": "মিও",
+          "C": "ন্যা",
+          "D": "নিউ"
+        },
+        "question": "ミュ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "ন্যা",
+          "B": "নিও",
+          "C": "হিও",
+          "D": "মিও"
+        },
+        "question": "ミョ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "রিউ",
+          "B": "র্যা",
+          "C": "রিও",
+          "D": "ন্যা"
+        },
+        "question": "リャ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "রিও",
+          "B": "ন্যা",
+          "C": "রিউ",
+          "D": "নিউ"
+        },
+        "question": "リュ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "র্যা",
+          "B": "রিউ",
+          "C": "নিউ",
+          "D": "রিও"
+        },
+        "question": "リョ"
+      }
+    ],
+    "Kata_SA_TO": [
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "সা",
+          "B": "শি",
+          "C": "সু",
+          "D": "সে"
+        },
+        "question": "サ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "সো",
+          "B": "তা",
+          "C": "শি",
+          "D": "চি"
+        },
+        "question": "シ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "সে",
+          "B": "সু",
+          "C": "সো",
+          "D": "তে"
+        },
+        "question": "ス"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "সা",
+          "B": "সু",
+          "C": "তো",
+          "D": "সে"
+        },
+        "question": "セ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "সো",
+          "B": "তা",
+          "C": "তে",
+          "D": "চি"
+        },
+        "question": "ソ"
+      },
+      {
+        "correct_answer": "B",
+        "options": {
+          "A": "চি",
+          "B": "তা",
+          "C": "তে",
+          "D": "তো"
+        },
+        "question": "タ"
+      },
+      {
+        "correct_answer": "C",
+        "options": {
+          "A": "সু (tsu)",
+          "B": "তে",
+          "C": "চি",
+          "D": "তা"
+        },
+        "question": "チ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "সু (tsu)",
+          "B": "তো",
+          "C": "সা",
+          "D": "সে"
+        },
+        "question": "ツ"
+      },
+      {
+        "correct_answer": "D",
+        "options": {
+          "A": "তা",
+          "B": "চি",
+          "C": "তো",
+          "D": "তে"
+        },
+        "question": "テ"
+      },
+      {
+        "correct_answer": "A",
+        "options": {
+          "A": "তো",
+          "B": "সু",
+          "C": "সা",
+          "D": "তে"
+        },
+        "question": "ト"
+      }
+    ]
+  }
+}
