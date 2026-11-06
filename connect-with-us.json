@@ -16,8 +16,8 @@
       "iconUrl": "https://kolombomondol.github.io/ljb-data/icons/Telegram.png",
       "link": "https://t.me/+bwoyLvraKuc0YzNl",
       "order": 2,
-      "subtitle": "আমাদের টেলিগ্রাম গ্রুপে যুক্ত হয়ে সঙ্গে থাকুন।",
-      "title": "Telegram ",
+      "subtitle": "আমাদের টেলিগ্রাম গ্রুপে যুক্ত হয়ে সঙ্গে থাকুন।",
+      "title": "Telegram",
       "type": "link"
     },
     "item_privacy": {
@@ -36,7 +36,7 @@
       "iconUrl": "",
       "link": "",
       "order": 6,
-      "subtitle": "আপনার মতামত আমাদের জানান! উপরে দেওয়া লিংকগুলোর মাধ্যমে আমাদের সাথে যুক্ত হয়ে কোনো বানান ভুল চোখে পড়লে কিংবা নতুন কী ফিচার যুক্ত করা যায়, সে বিষয়ে আপনার মূল্যবান পরামর্শ আমাদের জানান।",
+      "subtitle": "আপনার মতামত আমাদের জানান! উপরে দেওয়া লিংকগুলোর মাধ্যমে আমাদের সাথে যুক্ত হয়ে কোনো বানান ভুল চোখে পড়লে কিংবা নতুন কী ফিচার যুক্ত করা যায়, সে বিষয়ে আপনার মূল্যবান পরামর্শ আমাদের জানান।",
       "title": "ধন্যবাদ!",
       "type": "thanks"
     },
@@ -53,7 +53,7 @@
     "item_youtube": {
       "arrowColor": "#E53935",
       "bgColor": "#FDEDEC",
-      "iconUrl": "https://firebasestorage.googleapis.com/v0/b/japan-app-132b4.firebasestorage.app/o/youtube.png?alt=media&token=56737c53-9029-4968-96b3-7a766de1e9f0",
+      "iconUrl": "https://kolombomondol.github.io/ljb-data/icons/youtube.png",
       "link": "https://www.youtube.com/@LearnJapaneseBangla-App",
       "order": 1,
       "subtitle": "আমাদের ইউটিউব চ্যানেল দেখুন",
