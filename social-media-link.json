@@ -1,0 +1,64 @@
+{
+  "connect_with_us": {
+    "item_facebook_group": {
+      "arrowColor": "#6C4CF1",
+      "bgColor": "#EFEBFB",
+      "iconUrl": "https://firebasestorage.googleapis.com/v0/b/japan-app-132b4.firebasestorage.app/o/Kanji_Logo.jpeg?alt=media&token=f9b3ab07-3f5e-4a10-9eca-38a2a7fd4eca",
+      "link": "https://play.google.com/store/apps/details?id=com.ljbstudio.kanjiflashcard",
+      "order": 3,
+      "subtitle": "কান্জি শেখার অ্যাপ ডাউনলোড করুন",
+      "title": "Kanji Master : JLPT & JFT",
+      "type": "link"
+    },
+    "item_facebook_page": {
+      "arrowColor": "#1877F2",
+      "bgColor": "#E9F1FE",
+      "iconUrl": "https://firebasestorage.googleapis.com/v0/b/japan-app-132b4.firebasestorage.app/o/Telegram.png?alt=media&token=e03e6dfe-aca1-48ab-9724-2e02cfd2f098",
+      "link": "https://t.me/+bwoyLvraKuc0YzNl",
+      "order": 2,
+      "subtitle": "আমাদের টেলিগ্রাম গ্রুপে যুক্ত হয়ে সঙ্গে থাকুন।",
+      "title": "Telegram ",
+      "type": "link"
+    },
+    "item_privacy": {
+      "arrowColor": "#F5A623",
+      "bgColor": "#FFF6E5",
+      "iconUrl": "https://firebasestorage.googleapis.com/v0/b/japan-app-132b4.firebasestorage.app/o/policy.png?alt=media&token=07ec6264-db53-4c67-b770-29b9644cbacc",
+      "link": "https://sites.google.com/view/learn-japanese-bangla-/home",
+      "order": 5,
+      "subtitle": "আমাদের প্রাইভেসি পলিসি পড়ুন",
+      "title": "Privacy Policy",
+      "type": "link"
+    },
+    "item_thanks": {
+      "arrowColor": "#FFFFFF",
+      "bgColor": "#FFFFFF",
+      "iconUrl": "",
+      "link": "",
+      "order": 6,
+      "subtitle": "আপনার মতামত আমাদের জানান! উপরে দেওয়া লিংকগুলোর মাধ্যমে আমাদের সাথে যুক্ত হয়ে কোনো বানান ভুল চোখে পড়লে কিংবা নতুন কী ফিচার যুক্ত করা যায়, সে বিষয়ে আপনার মূল্যবান পরামর্শ আমাদের জানান।",
+      "title": "ধন্যবাদ!",
+      "type": "thanks"
+    },
+    "item_whatsapp": {
+      "arrowColor": "#25D366",
+      "bgColor": "#EAF7EE",
+      "iconUrl": "https://firebasestorage.googleapis.com/v0/b/japan-app-132b4.firebasestorage.app/o/wa_group.png?alt=media&token=833aa827-e654-497d-9215-f4477a434b90",
+      "link": "https://chat.whatsapp.com/JA87gTlDx894yN0Mk6ugyb?s=cl&p=a&ilr=4",
+      "order": 4,
+      "subtitle": "আমাদের WhatsApp গ্রুপে যুক্ত হন",
+      "title": "WhatsApp Group",
+      "type": "link"
+    },
+    "item_youtube": {
+      "arrowColor": "#E53935",
+      "bgColor": "#FDEDEC",
+      "iconUrl": "https://firebasestorage.googleapis.com/v0/b/japan-app-132b4.firebasestorage.app/o/youtube.png?alt=media&token=56737c53-9029-4968-96b3-7a766de1e9f0",
+      "link": "https://www.youtube.com/@LearnJapaneseBangla-App",
+      "order": 1,
+      "subtitle": "আমাদের ইউটিউব চ্যানেল দেখুন",
+      "title": "YouTube Channel",
+      "type": "link"
+    }
+  }
+}
